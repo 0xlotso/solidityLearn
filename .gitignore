@@ -3,3 +3,7 @@
 
 # IDE
 .vscode
+
+
+# dependency
+node_modules
